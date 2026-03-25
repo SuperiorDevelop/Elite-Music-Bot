@@ -27,7 +27,7 @@ Elite Music Bot is a feature-rich Discord bot built for performance and quality.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/elite-music-bot.git
+git clone https://github.com/SuperiorDevelop/elite-music-bot.git
 cd elite-music-bot
 
 # 2. Install dependencies
